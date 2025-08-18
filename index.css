@@ -1,8 +1,0 @@
-.orbit .orbit-slide {
-  position: absolute;
-  width: 25vw;
-  height: 25vw;
-  top: 15vh;
-  left: 30vw;
-  z-index: -1;
-}
