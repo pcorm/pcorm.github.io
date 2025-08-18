@@ -1,0 +1,1583 @@
+{
+  "venues": [
+    {
+      "id": "1",
+      "name": "The Dead Rabbit",
+      "coords": { "lat": 40.7033, "lng": -74.0170 },
+      "neighborhood": "Financial District",
+      "priceTier": 3,
+      "rating": 4.8,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Craft Cocktails",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$8 Bar Bites",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "url": "https://deadrabbitnyc.com",
+      "phone": "(646) 422-7906",
+      "address": "30 Water St, New York, NY 10004",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Employees Only",
+      "coords": { "lat": 40.7347, "lng": -74.0027 },
+      "neighborhood": "West Village",
+      "priceTier": 3,
+      "rating": 4.7,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Classic Cocktails",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$6 Sliders",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://employeesonlynyc.com",
+      "phone": "(212) 242-3021",
+      "address": "510 Hudson St, New York, NY 10014",
+      "hours": {
+        "monday": "18:00-04:00",
+        "tuesday": "18:00-04:00",
+        "wednesday": "18:00-04:00",
+        "thursday": "18:00-04:00",
+        "friday": "18:00-04:00",
+        "saturday": "18:00-04:00",
+        "sunday": "18:00-04:00"
+      }
+    },
+    {
+      "id": "3",
+      "name": "The Campbell",
+      "coords": { "lat": 40.7589, "lng": -73.9851 },
+      "neighborhood": "Midtown",
+      "priceTier": 3,
+      "rating": 4.5,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Wine by the Glass",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "Complimentary Appetizers",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://thecampbellnyc.com",
+      "phone": "(212) 297-1781",
+      "address": "15 Vanderbilt Ave, New York, NY 10017",
+      "hours": {
+        "monday": "11:00-23:00",
+        "tuesday": "11:00-23:00",
+        "wednesday": "11:00-23:00",
+        "thursday": "11:00-23:00",
+        "friday": "11:00-23:00",
+        "saturday": "11:00-23:00",
+        "sunday": "11:00-23:00"
+      }
+    },
+    {
+      "id": "4",
+      "name": "The NoMad Bar",
+      "coords": { "lat": 40.7441, "lng": -73.9912 },
+      "neighborhood": "Flatiron",
+      "priceTier": 3,
+      "rating": 4.6,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$12 Signature Cocktails",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "Half-Price Bar Snacks",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "url": "https://thenomadhotel.com",
+      "phone": "(212) 796-1500",
+      "address": "1170 Broadway, New York, NY 10001",
+      "hours": {
+        "monday": "11:00-01:00",
+        "tuesday": "11:00-01:00",
+        "wednesday": "11:00-01:00",
+        "thursday": "11:00-01:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-01:00"
+      }
+    },
+    {
+      "id": "5",
+      "name": "The Raines Law Room",
+      "coords": { "lat": 40.7386, "lng": -73.9947 },
+      "neighborhood": "Chelsea",
+      "priceTier": 3,
+      "rating": 4.4,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Prohibition Cocktails",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$8 Small Plates",
+          "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://raineslawroom.com",
+      "phone": "(212) 268-1599",
+      "address": "48 W 17th St, New York, NY 10011",
+      "hours": {
+        "monday": "17:00-02:00",
+        "tuesday": "17:00-02:00",
+        "wednesday": "17:00-02:00",
+        "thursday": "17:00-02:00",
+        "friday": "17:00-02:00",
+        "saturday": "17:00-02:00",
+        "sunday": "17:00-02:00"
+      }
+    },
+    {
+      "id": "6",
+      "name": "McSorley's Old Ale House",
+      "coords": { "lat": 40.7308, "lng": -73.9907 },
+      "neighborhood": "East Village",
+      "priceTier": 1,
+      "rating": 4.2,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 House Ale",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$3 Cheese Plate",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://mcsorleysoldalehouse.nyc",
+      "phone": "(212) 474-9148",
+      "address": "15 E 7th St, New York, NY 10003",
+      "hours": {
+        "monday": "11:00-01:00",
+        "tuesday": "11:00-01:00",
+        "wednesday": "11:00-01:00",
+        "thursday": "11:00-01:00",
+        "friday": "11:00-01:00",
+        "saturday": "11:00-01:00",
+        "sunday": "11:00-01:00"
+      }
+    },
+    {
+      "id": "7",
+      "name": "The Spotted Pig",
+      "coords": { "lat": 40.7359, "lng": -74.0066 },
+      "neighborhood": "West Village",
+      "priceTier": 2,
+      "rating": 4.1,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$8 Well Drinks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "Half-Price Bar Menu",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://thespottedpig.com",
+      "phone": "(212) 620-0393",
+      "address": "314 W 11th St, New York, NY 10014",
+      "hours": {
+        "monday": "11:00-23:00",
+        "tuesday": "11:00-23:00",
+        "wednesday": "11:00-23:00",
+        "thursday": "11:00-23:00",
+        "friday": "11:00-23:00",
+        "saturday": "11:00-23:00",
+        "sunday": "11:00-23:00"
+      }
+    },
+    {
+      "id": "8",
+      "name": "The Aviary NYC",
+      "coords": { "lat": 40.7614, "lng": -73.9776 },
+      "neighborhood": "Upper East Side",
+      "priceTier": 3,
+      "rating": 4.7,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Signature Cocktails",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "Complimentary Canapés",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://aviarynyc.com",
+      "phone": "(212) 933-0250",
+      "address": "775 5th Ave, New York, NY 10065",
+      "hours": {
+        "monday": "17:00-23:00",
+        "tuesday": "17:00-23:00",
+        "wednesday": "17:00-23:00",
+        "thursday": "17:00-23:00",
+        "friday": "17:00-23:00",
+        "saturday": "17:00-23:00",
+        "sunday": "17:00-23:00"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Pete's Tavern",
+      "coords": { "lat": 40.7379, "lng": -73.9917 },
+      "neighborhood": "Gramercy",
+      "priceTier": 2,
+      "rating": 4.3,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$6 Draft Beer",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$5 Bar Snacks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://petestavern.com",
+      "phone": "(212) 473-7676",
+      "address": "129 E 18th St, New York, NY 10003",
+      "hours": {
+        "monday": "11:00-23:00",
+        "tuesday": "11:00-23:00",
+        "wednesday": "11:00-23:00",
+        "thursday": "11:00-23:00",
+        "friday": "11:00-23:00",
+        "saturday": "11:00-23:00",
+        "sunday": "11:00-23:00"
+      }
+    },
+    {
+      "id": "10",
+      "name": "The Flatiron Room",
+      "coords": { "lat": 40.7441, "lng": -73.9912 },
+      "neighborhood": "Flatiron",
+      "priceTier": 3,
+      "rating": 4.5,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Whiskey Flights",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$10 Charcuterie Board",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://theflatironroom.com",
+      "phone": "(212) 725-3860",
+      "address": "37 W 26th St, New York, NY 10010",
+      "hours": {
+        "monday": "17:00-02:00",
+        "tuesday": "17:00-02:00",
+        "wednesday": "17:00-02:00",
+        "thursday": "17:00-02:00",
+        "friday": "17:00-02:00",
+        "saturday": "17:00-02:00",
+        "sunday": "17:00-02:00"
+      }
+    },
+    {
+      "id": "11",
+      "name": "The Raines Law Room",
+      "coords": { "lat": 40.7389, "lng": -73.9912 },
+      "neighborhood": "Flatiron",
+      "priceTier": 3,
+      "rating": 4.6,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Craft Cocktails",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://raineslawroom.com",
+      "phone": "(212) 268-1599",
+      "address": "48 W 17th St, New York, NY 10011",
+      "hours": {
+        "monday": "17:00-02:00",
+        "tuesday": "17:00-02:00",
+        "wednesday": "17:00-02:00",
+        "thursday": "17:00-02:00",
+        "friday": "17:00-02:00",
+        "saturday": "17:00-02:00",
+        "sunday": "17:00-02:00"
+      }
+    },
+    {
+      "id": "12",
+      "name": "The NoMad Bar",
+      "coords": { "lat": 40.7441, "lng": -73.9912 },
+      "neighborhood": "Flatiron",
+      "priceTier": 3,
+      "rating": 4.7,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Wine by the Glass",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$8 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "url": "https://thenomadhotel.com",
+      "phone": "(212) 796-1500",
+      "address": "1170 Broadway, New York, NY 10001",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "13",
+      "name": "The Dead Poet",
+      "coords": { "lat": 40.7805, "lng": -73.9776 },
+      "neighborhood": "Upper West Side",
+      "priceTier": 2,
+      "rating": 4.2,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Draft Beer",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$6 Bar Snacks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://deadpoetnyc.com",
+      "phone": "(212) 595-5670",
+      "address": "450 Amsterdam Ave, New York, NY 10024",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "14",
+      "name": "The Penrose",
+      "coords": { "lat": 40.7639, "lng": -73.9724 },
+      "neighborhood": "Upper East Side",
+      "priceTier": 2,
+      "rating": 4.1,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$6 House Wine",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$5 Appetizers",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://penrosebar.com",
+      "phone": "(212) 203-2757",
+      "address": "1590 2nd Ave, New York, NY 10028",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "15",
+      "name": "The Wayland",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.3,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Well Drinks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$4 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://thewaylandnyc.com",
+      "phone": "(212) 777-7022",
+      "address": "700 E 9th St, New York, NY 10009",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "16",
+      "name": "The Up & Up",
+      "coords": { "lat": 40.7308, "lng": -73.9976 },
+      "neighborhood": "West Village",
+      "priceTier": 3,
+      "rating": 4.4,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Craft Cocktails",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://theupandupnyc.com",
+      "phone": "(212) 252-1600",
+      "address": "116 MacDougal St, New York, NY 10012",
+      "hours": {
+        "monday": "17:00-02:00",
+        "tuesday": "17:00-02:00",
+        "wednesday": "17:00-02:00",
+        "thursday": "17:00-02:00",
+        "friday": "17:00-02:00",
+        "saturday": "17:00-02:00",
+        "sunday": "17:00-02:00"
+      }
+    },
+    {
+      "id": "17",
+      "name": "The Happiest Hour",
+      "coords": { "lat": 40.7389, "lng": -73.9912 },
+      "neighborhood": "Flatiron",
+      "priceTier": 2,
+      "rating": 4.0,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Draft Beer",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$6 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://happiesthournyc.com",
+      "phone": "(212) 243-2827",
+      "address": "121 W 10th St, New York, NY 10011",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "18",
+      "name": "The Beagle",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.2,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$6 House Wine",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$5 Appetizers",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://thebeaglenyc.com",
+      "phone": "(212) 777-7022",
+      "address": "162 Avenue A, New York, NY 10009",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "19",
+      "name": "The Library at the Public",
+      "coords": { "lat": 40.7308, "lng": -73.9976 },
+      "neighborhood": "West Village",
+      "priceTier": 3,
+      "rating": 4.5,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Wine by the Glass",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$8 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "url": "https://publictheater.org",
+      "phone": "(212) 539-8500",
+      "address": "425 Lafayette St, New York, NY 10003",
+      "hours": {
+        "monday": "17:00-23:00",
+        "tuesday": "17:00-23:00",
+        "wednesday": "17:00-23:00",
+        "thursday": "17:00-23:00",
+        "friday": "17:00-23:00",
+        "saturday": "17:00-23:00",
+        "sunday": "17:00-23:00"
+      }
+    },
+    {
+      "id": "20",
+      "name": "The Wren",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.1,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Well Drinks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$4 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://thewrennyc.com",
+      "phone": "(212) 777-7022",
+      "address": "344 Bowery, New York, NY 10012",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "21",
+      "name": "The Ten Bells",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.3,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Draft Beer",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$6 Bar Snacks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://tenbellsnyc.com",
+      "phone": "(212) 777-7022",
+      "address": "247 Broome St, New York, NY 10002",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "22",
+      "name": "The Mulberry Project",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 3,
+      "rating": 4.4,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Craft Cocktails",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://mulberryproject.com",
+      "phone": "(212) 777-7022",
+      "address": "149 Mulberry St, New York, NY 10013",
+      "hours": {
+        "monday": "17:00-02:00",
+        "tuesday": "17:00-02:00",
+        "wednesday": "17:00-02:00",
+        "thursday": "17:00-02:00",
+        "friday": "17:00-02:00",
+        "saturday": "17:00-02:00",
+        "sunday": "17:00-02:00"
+      }
+    },
+    {
+      "id": "23",
+      "name": "The Back Room",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.2,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Well Drinks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$4 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://backroomnyc.com",
+      "phone": "(212) 777-7022",
+      "address": "102 Norfolk St, New York, NY 10002",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "24",
+      "name": "The Garret",
+      "coords": { "lat": 40.7308, "lng": -73.9976 },
+      "neighborhood": "West Village",
+      "priceTier": 3,
+      "rating": 4.5,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Wine by the Glass",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$8 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "url": "https://garretnyc.com",
+      "phone": "(212) 252-1600",
+      "address": "296 Bleecker St, New York, NY 10014",
+      "hours": {
+        "monday": "17:00-02:00",
+        "tuesday": "17:00-02:00",
+        "wednesday": "17:00-02:00",
+        "thursday": "17:00-02:00",
+        "friday": "17:00-02:00",
+        "saturday": "17:00-02:00",
+        "sunday": "17:00-02:00"
+      }
+    },
+    {
+      "id": "25",
+      "name": "The Blind Barber",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.1,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$6 House Wine",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$5 Appetizers",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://blindbarber.com",
+      "phone": "(212) 777-7022",
+      "address": "339 E 10th St, New York, NY 10009",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "26",
+      "name": "The Standard High Line",
+      "coords": { "lat": 40.7441, "lng": -73.9912 },
+      "neighborhood": "Chelsea",
+      "priceTier": 3,
+      "rating": 4.6,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Craft Cocktails",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$10 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://standardhotels.com",
+      "phone": "(212) 645-4646",
+      "address": "848 Washington St, New York, NY 10014",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "27",
+      "name": "The Jane Hotel",
+      "coords": { "lat": 40.7308, "lng": -73.9976 },
+      "neighborhood": "West Village",
+      "priceTier": 2,
+      "rating": 4.0,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Draft Beer",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$6 Bar Snacks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://thejanenyc.com",
+      "phone": "(212) 252-1600",
+      "address": "113 Jane St, New York, NY 10014",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "28",
+      "name": "The Bowery Hotel",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 3,
+      "rating": 4.7,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Wine by the Glass",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$8 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "url": "https://theboweryhotel.com",
+      "phone": "(212) 505-9100",
+      "address": "335 Bowery, New York, NY 10003",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "29",
+      "name": "The Ace Hotel",
+      "coords": { "lat": 40.7441, "lng": -73.9912 },
+      "neighborhood": "Flatiron",
+      "priceTier": 2,
+      "rating": 4.2,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$6 House Wine",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$5 Appetizers",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://acehotel.com",
+      "phone": "(212) 679-2222",
+      "address": "20 W 29th St, New York, NY 10001",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "30",
+      "name": "The Gramercy Park Hotel",
+      "coords": { "lat": 40.7379, "lng": -73.9917 },
+      "neighborhood": "Gramercy",
+      "priceTier": 3,
+      "rating": 4.8,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Craft Cocktails",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$10 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://gramercyparkhotel.com",
+      "phone": "(212) 920-3300",
+      "address": "2 Lexington Ave, New York, NY 10010",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "31",
+      "name": "The Ludlow Hotel",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 3,
+      "rating": 4.5,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Wine by the Glass",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$8 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "url": "https://ludlowhotel.com",
+      "phone": "(212) 432-1818",
+      "address": "180 Ludlow St, New York, NY 10002",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "32",
+      "name": "The Nolitan Hotel",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.1,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Well Drinks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$4 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://nolitanhotel.com",
+      "phone": "(212) 925-2555",
+      "address": "30 Kenmare St, New York, NY 10012",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "33",
+      "name": "The Standard East Village",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 3,
+      "rating": 4.4,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Craft Cocktails",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$10 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://standardhotels.com",
+      "phone": "(212) 475-5700",
+      "address": "25 Cooper Square, New York, NY 10003",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "34",
+      "name": "The Wythe Hotel",
+      "coords": { "lat": 40.7183, "lng": -73.9581 },
+      "neighborhood": "Williamsburg",
+      "priceTier": 3,
+      "rating": 4.6,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Wine by the Glass",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        },
+        {
+          "type": "food",
+          "label": "$8 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:30",
+          "end": "17:30"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+      ],
+      "url": "https://wythehotel.com",
+      "phone": "(718) 460-8000",
+      "address": "80 Wythe Ave, Brooklyn, NY 11249",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "35",
+      "name": "The William Vale",
+      "coords": { "lat": 40.7183, "lng": -73.9581 },
+      "neighborhood": "Williamsburg",
+      "priceTier": 3,
+      "rating": 4.7,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "Half-Price Craft Cocktails",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$10 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+      ],
+      "url": "https://williamvale.com",
+      "phone": "(718) 631-8400",
+      "address": "111 N 12th St, Brooklyn, NY 11249",
+      "hours": {
+        "monday": "11:00-02:00",
+        "tuesday": "11:00-02:00",
+        "wednesday": "11:00-02:00",
+        "thursday": "11:00-02:00",
+        "friday": "11:00-02:00",
+        "saturday": "11:00-02:00",
+        "sunday": "11:00-02:00"
+      }
+    },
+    {
+      "id": "36",
+      "name": "The Hoxton",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.3,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$6 House Wine",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$5 Appetizers",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://thehoxton.com",
+      "phone": "(212) 777-7022",
+      "address": "97-101 E 5th St, New York, NY 10003",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "37",
+      "name": "The Moxy East Village",
+      "coords": { "lat": 40.7163, "lng": -73.9861 },
+      "neighborhood": "East Village",
+      "priceTier": 2,
+      "rating": 4.0,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Draft Beer",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$6 Bar Snacks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://moxy-hotels.marriott.com",
+      "phone": "(212) 777-7022",
+      "address": "112 E 15th St, New York, NY 10003",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "38",
+      "name": "The Freehand",
+      "coords": { "lat": 40.7441, "lng": -73.9912 },
+      "neighborhood": "Flatiron",
+      "priceTier": 2,
+      "rating": 4.2,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$5 Well Drinks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$4 Bar Bites",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://freehandhotels.com",
+      "phone": "(212) 475-1923",
+      "address": "23 Lexington Ave, New York, NY 10010",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "39",
+      "name": "The CitizenM",
+      "coords": { "lat": 40.7441, "lng": -73.9912 },
+      "neighborhood": "Flatiron",
+      "priceTier": 2,
+      "rating": 4.1,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$6 House Wine",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$5 Appetizers",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+      ],
+      "url": "https://citizenm.com",
+      "phone": "(212) 319-7000",
+      "address": "222 W 48th St, New York, NY 10036",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    },
+    {
+      "id": "40",
+      "name": "The Pod Times Square",
+      "coords": { "lat": 40.7589, "lng": -73.9851 },
+      "neighborhood": "Midtown",
+      "priceTier": 1,
+      "rating": 3.9,
+      "deals": [
+        {
+          "type": "drink",
+          "label": "$4 Draft Beer",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        },
+        {
+          "type": "food",
+          "label": "$3 Bar Snacks",
+          "days": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400"
+      ],
+      "url": "https://thepodhotel.com",
+      "phone": "(212) 355-0300",
+      "address": "400 W 42nd St, New York, NY 10036",
+      "hours": {
+        "monday": "16:00-02:00",
+        "tuesday": "16:00-02:00",
+        "wednesday": "16:00-02:00",
+        "thursday": "16:00-02:00",
+        "friday": "16:00-02:00",
+        "saturday": "16:00-02:00",
+        "sunday": "16:00-02:00"
+      }
+    }
+  ]
+}
